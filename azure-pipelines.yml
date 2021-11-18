@@ -6,6 +6,7 @@
 trigger:
 - master
 
+environment: MonEnv
 pool:
   vmImage: ubuntu-latest
 
